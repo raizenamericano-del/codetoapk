@@ -1,0 +1,22 @@
+[
+  {"question": "Planet terbesar di tata surya?", "options": ["Jupiter", "Saturnus", "Bumi", "Mars"], "answer": "Jupiter"},
+  {"question": "Ibukota Indonesia?", "options": ["Jakarta", "Surabaya", "Bandung", "Yogyakarta"], "answer": "Jakarta"},
+  {"question": "Siapa penemu lampu pijar?", "options": ["Thomas Edison", "Nikola Tesla", "Albert Einstein", "Isaac Newton"], "answer": "Thomas Edison"},
+  {"question": "Berapa jumlah provinsi di Indonesia (2024)?", "options": ["38", "34", "36", "40"], "answer": "38"},
+  {"question": "Hewan tercepat di darat?", "options": ["Cheetah", "Singa", "Kuda", "Harimau"], "answer": "Cheetah"},
+  {"question": "Siapa presiden pertama Indonesia?", "options": ["Soekarno", "Soeharto", "Habibie", "Megawati"], "answer": "Soekarno"},
+  {"question": "Lagu kebangsaan Indonesia?", "options": ["Indonesia Raya", "Garuda Pancasila", "Ibu Pertiwi", "Syukur"], "answer": "Indonesia Raya"},
+  {"question": "Gunung tertinggi di Indonesia?", "options": ["Puncak Jaya", "Kerinci", "Rinjani", "Semeru"], "answer": "Puncak Jaya"},
+  {"question": "Siapa penulis Harry Potter?", "options": ["J.K. Rowling", "Stephen King", "Tolkien", "George R.R. Martin"], "answer": "J.K. Rowling"},
+  {"question": "Unsur kimia dengan simbol Au?", "options": ["Emas", "Perak", "Tembaga", "Besi"], "answer": "Emas"},
+  {"question": "Negara dengan populasi terbanyak?", "options": ["India", "China", "Amerika", "Indonesia"], "answer": "India"},
+  {"question": "Siapa yang menciptakan Facebook?", "options": ["Mark Zuckerberg", "Bill Gates", "Steve Jobs", "Elon Musk"], "answer": "Mark Zuckerberg"},
+  {"question": "Benua terkecil?", "options": ["Australia", "Eropa", "Antartika", "Afrika"], "answer": "Australia"},
+  {"question": "Siapa penemu telepon?", "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"], "answer": "Alexander Graham Bell"},
+  {"question": "Laut terdalam di dunia?", "options": ["Laut Filipina", "Laut Mediterania", "Laut Merah", "Laut Karibia"], "answer": "Laut Filipina"},
+  {"question": "Siapa pelukis Mona Lisa?", "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Donatello"], "answer": "Leonardo da Vinci"},
+  {"question": "Mata uang Jepang?", "options": ["Yen", "Won", "Yuan", "Dollar"], "answer": "Yen"},
+  {"question": "Siapa penulis Laskar Pelangi?", "options": ["Andrea Hirata", "Habiburrahman", "Dee Lestari", "Leila Chudori"], "answer": "Andrea Hirata"},
+  {"question": "Zat yang dibutuhkan tubuh untuk pembentukan tulang?", "options": ["Kalsium", "Zat Besi", "Vitamin C", "Protein"], "answer": "Kalsium"},
+  {"question": "Siapa ilmuwan teori relativitas?", "options": ["Albert Einstein", "Isaac Newton", "Stephen Hawking", "Galileo Galilei"], "answer": "Albert Einstein"}
+]
